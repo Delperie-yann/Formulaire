@@ -1,0 +1,4 @@
+Pour les tests;
+Pseudo : user1
+Mdp : TestUsersFrom1234
+Email : Email@gmail.fr
